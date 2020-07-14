@@ -1,10 +1,14 @@
 # flask-chatbot
 python 3.6 
 Dependencies :  
-             Flask  
-             chatterbot 
-             SQLAlchemy 
-             Speech Recognization(for speech to text)    
+             Flask
+             
+             chatterbot
+             
+             SQLAlchemy
+             
+             Speech Recognization(for speech to text)   
+             
              pyttsx3(text to speech)
                
 Local Setup:
