@@ -1,6 +1,8 @@
 # flask-chatbot
 python 3.6 
+
 Dependencies :  
+
              Flask
              
              chatterbot
